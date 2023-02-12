@@ -1,5 +1,4 @@
 /*
- * Assert.assertTrue()
- * Assert.assertFalse()
- * Assert.assertEquals()
+ * Assert.assertTrue() Assert.assertFalse() Assert.assertEquals()
+ * 
  */
